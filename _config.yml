@@ -86,10 +86,10 @@ author:
   name             : "Manar Alkuzweny"
   avatar           : "profile.png"
   bio              : "Ph.D. student"
-  location         : "Location"
+  location         : # location
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=manar+alkuzweny"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=cvnAAkIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -106,13 +106,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6069-5778"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "malkuzweny"
   vine             :
   weibo            :
   xing             :
